@@ -1,0 +1,15 @@
+title: 敦煌外贸
+description: 丝绸之路特色商品贸易平台
+baseurl: ""
+url: "https://dunhuang-trade.com"
+
+# 启用必要插件
+plugins:
+  - jekyll-feed
+
+# 配置默认布局
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
