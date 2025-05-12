@@ -1,0 +1,10 @@
+- id: lighting
+  name: 灯具
+  en_name: Lighting
+  image: /assets/images/categories/lighting.jpg
+  description: 敦煌网爆款灯具，覆盖家居与商用场景
+- id: electronics
+  name: 电子产品
+  en_name: Electronics
+  image: /assets/images/categories/electronics.jpg
+  description: 高性价比消费电子，支持全球物流
